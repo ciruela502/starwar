@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">starwar2</string>
+    <string name="details">details</string>
+    <string name="image_transition">image</string>
+    <string name="text_transition">name</string>
+    <string name="starwar_api">STARWAR\nAPI</string>
+    <string name="starwar">Starwar</string>
+    <string name="starwar_name">STARWAR</string>
+    <string name="favorite">favorite</string>
+    <string name="search">search</string>
+    <string name="view_all">view all</string>
+    <string name="birth_year">birth year:</string>
+    <string name="gender">gender:</string>
+    <string name="hair">hair:</string>
+    <string name="height">height:</string>
+    <string name="home">home:</string>
+    <string name="mass">mass:</string>
+    <string name="skin">skin:</string>
+    <string name="films">films:</string>
+    <string name="species">species:</string>
+    <string name="starship">starship:</string>
+    <string name="vehicles">vehicles:</string>
+    <string name="id">id:</string>
+    <string name="name">name</string>
+    <string name="write_parameter">Write one parameter for searching.</string>
+    <string name="confirm">confirm</string>
+    <string name="offline">offline</string>
+</resources>
